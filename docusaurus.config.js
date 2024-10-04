@@ -6,7 +6,7 @@
 // Name of the Github Repo, it's also teh baseUrl
 const workshopName = 'intro-lab';
 // Change this if hosting outside mongodb-developer
-const organizationName = "mongodb-developer";
+const organizationName = "toj11001";
 
 // Main page config
 const title = "Intro Lab";
